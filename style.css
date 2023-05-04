@@ -1,0 +1,27 @@
+*{
+    background-color: bisque;
+}
+.container{
+    border: 20px;;
+    background-color: aqua;
+    margin:200px;
+    padding:30px;
+    height:200px;
+    width: 700px;
+}
+.input_box{
+    margin:30px;
+    border-radius: 10px;
+}
+label{
+    font-size: 25px;
+}
+#Celsius
+{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#Fahrenheit{
+    border: 2px solid black;
+    border-radius: 10px;
+}
